@@ -1,0 +1,34 @@
+body{
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background: #f0f0f0;
+    overflow-x: hidden;
+}
+
+/* Top Styles */
+
+#top{
+    background: #555555;
+    padding: 10px 0;
+}
+#top .offer{
+	color:#ffffff;
+}
+#top .offer .btn{
+	text-transform: uppercase;
+}
+@media(max-width: 991px){
+	#top .offer{
+		margin-bottom: 10px
+	}
+}
+@media(max-width: 991px){
+	#top{
+		margin-bottom: 10px;
+		text-align:center;
+	}
+}
+#top a{
+	color:#129422;
+}
