@@ -78,32 +78,6 @@
                    }
                    
                    ?>
-
-
-                   <!--
-                   <div class="item active">
-                       
-                       <img src="admin_area/slides_images/slide-image1.png" alt="Slider Image 1">
-                       
-                   </div>
-                   
-                   <div class="item">
-                       
- 						<img src="admin_area/slides_images/slide-image2.png" alt="Slider Image 1">                       
-                   </div>
-                   
-                   <div class="item">
-                       
-                       <img src="admin_area/slides_images/slide-image3.png" alt="Slider Image 3">
-                       
-                   </div>
-                   
-                   <div class="item">
-                       
-                       <img src="admin_area/slides_images/slide-image4.png" alt="Slider Image 4">
-                       
-                   </div>
-                   -->
                    
                </div><!-- carousel-inner Finish -->
                
